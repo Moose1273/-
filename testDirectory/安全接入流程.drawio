@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T06:17:22.857Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="SL4vyB1c88lsnE0ZuzWE" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-10T06:19:01.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="hx9fvsoHQdwBHgXKPqfx" version="21.6.2" type="github">
   <diagram name="第 1 页" id="N0-CxhGlmVpB74cpehke">
     <mxGraphModel dx="989" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,14 +139,6 @@
             <mxPoint x="-51" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1CiKrdPyNwc5DJig_l-G-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.053;entryY=0.894;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1CiKrdPyNwc5DJig_l-G-32" target="1CiKrdPyNwc5DJig_l-G-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1CiKrdPyNwc5DJig_l-G-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;12.服务请求&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1CiKrdPyNwc5DJig_l-G-37">
-          <mxGeometry x="-0.6949" y="-1" relative="1" as="geometry">
-            <mxPoint x="26" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1CiKrdPyNwc5DJig_l-G-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="560" width="20" height="110" as="geometry" />
         </mxCell>
@@ -159,17 +151,6 @@
         <mxCell id="1CiKrdPyNwc5DJig_l-G-36" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;10.SPA认证报文响应&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1CiKrdPyNwc5DJig_l-G-34">
           <mxGeometry x="0.7758" relative="1" as="geometry">
             <mxPoint x="57" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1CiKrdPyNwc5DJig_l-G-39" value="" style="endArrow=open;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;endFill=0;" edge="1" parent="1" source="1CiKrdPyNwc5DJig_l-G-29" target="1CiKrdPyNwc5DJig_l-G-32">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="750" as="sourcePoint" />
-            <mxPoint x="380" y="700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1CiKrdPyNwc5DJig_l-G-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;13.服务响应&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1CiKrdPyNwc5DJig_l-G-39">
-          <mxGeometry x="0.7442" y="-3" relative="1" as="geometry">
-            <mxPoint x="39" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1CiKrdPyNwc5DJig_l-G-41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.088;entryY=0.811;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.016;exitY=0.554;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1CiKrdPyNwc5DJig_l-G-32" target="1CiKrdPyNwc5DJig_l-G-29">
@@ -203,6 +184,17 @@
         <mxCell id="1CiKrdPyNwc5DJig_l-G-47" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;8.响应可用服务&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1CiKrdPyNwc5DJig_l-G-46">
           <mxGeometry x="0.4629" y="1" relative="1" as="geometry">
             <mxPoint x="32" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1CiKrdPyNwc5DJig_l-G-48" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.122;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.947;exitY=0.824;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1CiKrdPyNwc5DJig_l-G-32" target="1CiKrdPyNwc5DJig_l-G-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="720" as="sourcePoint" />
+            <mxPoint x="390" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1CiKrdPyNwc5DJig_l-G-49" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;12.服务请求和响应&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1CiKrdPyNwc5DJig_l-G-48">
+          <mxGeometry x="-0.6077" relative="1" as="geometry">
+            <mxPoint x="31" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
