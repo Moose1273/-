@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T01:43:54.887Z" agent="Mozilla/5.0 (iPad; CPU OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/101.0.4951.58 Mobile/15E148 Safari/604.1" version="22.1.12" etag="BZCJ_zPvXrUtbJAlo2O_" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T02:15:41.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="HiX037tKXw2o2pd7brGT" version="20.8.23" type="github">
   <diagram name="第 1 页" id="0z9JKRUBGWp2M3qXzIOP">
-    <mxGraphModel>
+    <mxGraphModel dx="1078" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="L8iIpXnIXu8oGE-3TDDa-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="200" width="460" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="L8iIpXnIXu8oGE-3TDDa-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="250" width="340" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="L8iIpXnIXu8oGE-3TDDa-2" value="IPSec架构" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L8iIpXnIXu8oGE-3TDDa-4" value="ESP协议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="280" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L8iIpXnIXu8oGE-3TDDa-5" value="AH协议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="94" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L8iIpXnIXu8oGE-3TDDa-7" value="协议模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L8iIpXnIXu8oGE-3TDDa-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="370" width="340" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="L8iIpXnIXu8oGE-3TDDa-8" value="IKE协商" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="370" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L8iIpXnIXu8oGE-3TDDa-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="405" width="300" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="L8iIpXnIXu8oGE-3TDDa-12" value="算法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="400" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L8iIpXnIXu8oGE-3TDDa-13" value="加密算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L8iIpXnIXu8oGE-3TDDa-14" value="鉴别算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L8iIpXnIXu8oGE-3TDDa-15" value="解释域（DOI）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="547" width="300" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="L8iIpXnIXu8oGE-3TDDa-16" value="密钥管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="660" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="L8iIpXnIXu8oGE-3TDDa-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L8iIpXnIXu8oGE-3TDDa-4" target="L8iIpXnIXu8oGE-3TDDa-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="590" as="sourcePoint" />
+            <mxPoint x="80" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L8iIpXnIXu8oGE-3TDDa-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="L8iIpXnIXu8oGE-3TDDa-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="370" as="sourcePoint" />
+            <mxPoint x="80" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="425" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
