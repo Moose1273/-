@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T13:02:33.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="pgjfQlHuvBMc8dg0ze7O" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T13:08:24.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="w0qa1xGkeS3IPGPFjDh7" version="22.1.18" type="github">
   <diagram name="第 1 页" id="b1a1K8lGnvg2Fc-WdCFe">
     <mxGraphModel dx="1816" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,7 +111,7 @@
         <mxCell id="ppDxrrGSv02l8xtLy87P-27" value="信任引擎&lt;br&gt;&lt;font face=&quot;Times New Roman&quot;&gt;（TE）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="500" y="420" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ppDxrrGSv02l8xtLy87P-28" value="基线策略管理&lt;br&gt;&lt;font face=&quot;Times New Roman&quot;&gt;（PAM）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="ppDxrrGSv02l8xtLy87P-28" value="基线策略管理&lt;br&gt;&lt;font face=&quot;Times New Roman&quot;&gt;（BAM）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="525" y="170" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppDxrrGSv02l8xtLy87P-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ppDxrrGSv02l8xtLy87P-29" target="ppDxrrGSv02l8xtLy87P-13">
