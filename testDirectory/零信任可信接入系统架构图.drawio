@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T05:37:30.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="SBtxJRnDTflbU9dzRs8x" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-10T05:48:25.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="0J5sPB5AfNX9kldI1Fne" version="23.1.7" type="github">
   <diagram name="第 1 页" id="ms9--4vIe1txsoRL8aFu">
-    <mxGraphModel dx="2514" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uTqP-Y-jselss-Khx-P8-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="10" width="630" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="uTqP-Y-jselss-Khx-P8-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;数&lt;br&gt;据&lt;br&gt;层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="660" width="40" height="90" as="geometry" />
+        <mxCell id="uTqP-Y-jselss-Khx-P8-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;策&lt;br&gt;略&lt;br&gt;管&lt;br&gt;理&lt;br&gt;层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="650" width="40" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="uTqP-Y-jselss-Khx-P8-4" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;零&lt;br&gt;信&lt;br&gt;任&lt;br&gt;访&lt;br&gt;问&lt;br&gt;代&lt;br&gt;理&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="75" y="450" width="50" height="220" as="geometry" />
+        <mxCell id="uTqP-Y-jselss-Khx-P8-4" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;零&lt;br&gt;信&lt;br&gt;任&lt;br&gt;访&lt;br&gt;问&lt;br&gt;代&lt;br&gt;理&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="480" width="40" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="uTqP-Y-jselss-Khx-P8-8" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;零&lt;br&gt;信&lt;br&gt;任&lt;br&gt;终&lt;br&gt;端&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="75" y="85" width="50" height="160" as="geometry" />
+        <mxCell id="uTqP-Y-jselss-Khx-P8-8" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;零&lt;br&gt;信&lt;br&gt;任&lt;br&gt;终&lt;br&gt;端&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="100" width="40" height="130" as="geometry" />
         </mxCell>
         <mxCell id="uTqP-Y-jselss-Khx-P8-20" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_availability_group;" vertex="1" parent="1">
           <mxGeometry x="-320" y="630" width="59" height="59" as="geometry" />
@@ -26,19 +26,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uTqP-Y-jselss-Khx-P8-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="195" y="40" width="530" height="80" as="geometry" />
+          <mxGeometry x="195" y="40" width="530" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uTqP-Y-jselss-Khx-P8-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="195" y="150" width="530" height="100" as="geometry" />
+          <mxGeometry x="195" y="160" width="530" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uTqP-Y-jselss-Khx-P8-28" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;服务层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-200" y="390" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uTqP-Y-jselss-Khx-P8-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="195" y="350" width="530" height="230" as="geometry" />
+          <mxGeometry x="195" y="340" width="530" height="290" as="geometry" />
         </mxCell>
         <mxCell id="uTqP-Y-jselss-Khx-P8-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="195" y="650" width="530" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uTqP-Y-jselss-Khx-P8-34" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;服&lt;br&gt;务&lt;br&gt;决&lt;br&gt;策&lt;br&gt;层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="420" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uTqP-Y-jselss-Khx-P8-35" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;度&lt;br&gt;量&lt;br&gt;层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="50" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uTqP-Y-jselss-Khx-P8-37" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;监&lt;br&gt;控&lt;br&gt;层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="170" width="40" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
