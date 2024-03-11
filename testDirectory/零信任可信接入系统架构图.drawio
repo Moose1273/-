@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T06:09:55.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="_scd7m47b_irt1ECiXwe" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T06:13:01.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="WNoX5Sh3eQUhDVrkcUni" version="23.1.7" type="github">
   <diagram name="第 1 页" id="ms9--4vIe1txsoRL8aFu">
     <mxGraphModel dx="1816" dy="1678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
         <mxCell id="uTqP-Y-jselss-Khx-P8-205" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="380" y="-10" width="170" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="uTqP-Y-jselss-Khx-P8-56" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="uTqP-Y-jselss-Khx-P8-56" value="终端注册" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="391.25" y="15" width="150" height="25" as="geometry" />
         </mxCell>
         <mxCell id="uTqP-Y-jselss-Khx-P8-68" value="数&lt;br&gt;据&lt;br&gt;传&lt;br&gt;输&lt;br&gt;层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
@@ -117,7 +117,7 @@
         <mxCell id="uTqP-Y-jselss-Khx-P8-206" value="系统状态" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="185" y="5" width="145" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="uTqP-Y-jselss-Khx-P8-207" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="uTqP-Y-jselss-Khx-P8-207" value="终端登录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="391.25" y="62.5" width="150" height="25" as="geometry" />
         </mxCell>
         <mxCell id="uTqP-Y-jselss-Khx-P8-209" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;认&lt;br style=&quot;font-size: 14px;&quot;&gt;证&lt;br style=&quot;font-size: 14px;&quot;&gt;信&lt;br style=&quot;font-size: 14px;&quot;&gt;息&lt;br style=&quot;font-size: 14px;&quot;&gt;采&lt;br style=&quot;font-size: 14px;&quot;&gt;集&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
@@ -129,7 +129,7 @@
         <mxCell id="uTqP-Y-jselss-Khx-P8-213" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;信任算法&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="700" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uTqP-Y-jselss-Khx-P8-214" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;用户身份&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="uTqP-Y-jselss-Khx-P8-214" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;终端身份&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="410" y="700" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uTqP-Y-jselss-Khx-P8-215" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;行为日志&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
