@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T06:39:14.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="FneX6_dPQoyxB2PHSP6p" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T06:49:38.045Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="PgILgK1TLx2kfhudiLIK" version="23.1.7" type="github">
   <diagram name="第 1 页" id="NWMO6BMZdNA0H22S7Hdg">
     <mxGraphModel dx="941" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,9 +41,6 @@
             <mxPoint x="210.02857142857147" y="568" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jyAmwKNWed4hoShEBS9S-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jyAmwKNWed4hoShEBS9S-12" target="jyAmwKNWed4hoShEBS9S-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="jyAmwKNWed4hoShEBS9S-12" value="综合信任是否&lt;br&gt;满足接入阈值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="480" width="140" height="60" as="geometry" />
         </mxCell>
@@ -57,7 +54,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jyAmwKNWed4hoShEBS9S-17" value="持续接入校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="495" width="110" height="30" as="geometry" />
+          <mxGeometry x="385" y="510" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jyAmwKNWed4hoShEBS9S-19" value="满足" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="470" width="50" height="30" as="geometry" />
@@ -128,7 +125,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="600" y="190" />
-              <mxPoint x="600" y="510" />
+              <mxPoint x="600" y="525" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -140,6 +137,22 @@
         </mxCell>
         <mxCell id="jyAmwKNWed4hoShEBS9S-54" value="正常" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="475" y="190" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jyAmwKNWed4hoShEBS9S-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jyAmwKNWed4hoShEBS9S-57" target="jyAmwKNWed4hoShEBS9S-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jyAmwKNWed4hoShEBS9S-57" value="建立内网资源&lt;br&gt;访问通道" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382.5" y="570" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jyAmwKNWed4hoShEBS9S-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jyAmwKNWed4hoShEBS9S-12" target="jyAmwKNWed4hoShEBS9S-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="480" as="sourcePoint" />
+            <mxPoint y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="510" />
+              <mxPoint x="330" y="585" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
