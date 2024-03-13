@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T12:19:16.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="V_nxiQjaPRoPchJmdmoH" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T12:20:06.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="GCqtvXNmdGA4NDkRlaP_" version="23.1.7" type="github">
   <diagram name="第 1 页" id="LsnD8-VomTxzoIUvUdtn">
     <mxGraphModel dx="784" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
             <mxPoint x="130.0000000000001" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6rBBKJ598IntfDfWMGEn-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.32;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="6rBBKJ598IntfDfWMGEn-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.32;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="400" as="sourcePoint" />
             <mxPoint x="210" y="370" as="targetPoint" />
@@ -31,13 +31,13 @@
         <mxCell id="6rBBKJ598IntfDfWMGEn-34" value="SubType(16bit)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="410" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6rBBKJ598IntfDfWMGEn-36" value="Head(bit)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6rBBKJ598IntfDfWMGEn-36" value="Head(64bit)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="330" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6rBBKJ598IntfDfWMGEn-37" value="Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="330" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6rBBKJ598IntfDfWMGEn-38" value="Default(16bit)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6rBBKJ598IntfDfWMGEn-38" value="Default(26bit)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="410" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
