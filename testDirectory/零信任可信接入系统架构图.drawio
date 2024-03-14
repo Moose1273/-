@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T08:37:54.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="KuSYVag3GKYSXCBtuAQ4" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T11:23:26.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="LLUogshzdj9QPg-JC3a8" version="24.0.5" type="github">
   <diagram name="第 1 页" id="ms9--4vIe1txsoRL8aFu">
     <mxGraphModel dx="1647" dy="2007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -141,8 +141,8 @@
         <mxCell id="uTqP-Y-jselss-Khx-P8-218" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=#36393d;fillColor=#cce5ff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_availability_group;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="555" y="645" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uTqP-Y-jselss-Khx-P8-219" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;基线策略&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="160" y="700" width="80" height="30" as="geometry" />
+        <mxCell id="uTqP-Y-jselss-Khx-P8-219" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;终端设备基线&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="145" y="700" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uTqP-Y-jselss-Khx-P8-238" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="170" y="230" width="580" height="45" as="geometry" />
