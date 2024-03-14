@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T07:04:11.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="c85joyc1-WvqCaBN1N6n" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T13:08:49.344Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="i_IZRON90XqOdv1bfk2d" version="24.0.5" type="github">
   <diagram name="第 1 页" id="LsnD8-VomTxzoIUvUdtn">
     <mxGraphModel dx="659" dy="335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
             <mxPoint x="210" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6rBBKJ598IntfDfWMGEn-31" value="ActionType(16bit)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6rBBKJ598IntfDfWMGEn-31" value="SubType(16bit)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="410" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6rBBKJ598IntfDfWMGEn-36" value="Head(64bit)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
