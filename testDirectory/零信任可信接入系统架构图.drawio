@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T07:05:07.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1_RLxzz9AEihMnLM4iNj" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T07:05:40.806Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="OtzhROT5qEvjKVp_jGzA" version="24.0.5" type="github">
   <diagram name="第 1 页" id="ms9--4vIe1txsoRL8aFu">
     <mxGraphModel dx="1373" dy="1868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -364,7 +364,7 @@
         <mxCell id="mElpV_ZJZSHDwFUQlrxw-14" value="提取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="585" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mElpV_ZJZSHDwFUQlrxw-15" value="发起访问" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mElpV_ZJZSHDwFUQlrxw-15" value="访问服务" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mElpV_ZJZSHDwFUQlrxw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uTqP-Y-jselss-Khx-P8-218" target="uTqP-Y-jselss-Khx-P8-221">
