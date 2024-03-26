@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T07:41:17.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="YEQQ6ZVSOHjSlsXd8AhW" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T07:41:50.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="AnpVWd-CCPYhONjTHFI3" version="24.0.7" type="github">
   <diagram name="第 1 页" id="vu2MBvDtXvxAbupbZDbj">
     <mxGraphModel dx="1768" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="sWWAI7rI3XmYcROVgZm0-1" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
           <mxGeometry x="-80" y="331.8" width="92.4" height="92.4" as="geometry" />
         </mxCell>
-        <mxCell id="sWWAI7rI3XmYcROVgZm0-2" value="策略决策引擎&lt;div&gt;（PEP）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="sWWAI7rI3XmYcROVgZm0-2" value="策略决策点&lt;div&gt;（PEP）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="210" y="140" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sWWAI7rI3XmYcROVgZm0-4" value="内网资源&lt;div&gt;（系统、数据、&lt;/div&gt;&lt;div&gt;应用）&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillColor=#CCCCCC;" vertex="1" parent="1">
