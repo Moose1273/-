@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T05:59:21.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="FyR_1Hnkath6Ztz62IZF" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T07:19:53.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="pHtmAT_PSf4Axb7GWlRB" version="24.0.7" type="github">
   <diagram name="第 1 页" id="vu2MBvDtXvxAbupbZDbj">
     <mxGraphModel dx="941" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,7 +18,7 @@
         <mxCell id="sWWAI7rI3XmYcROVgZm0-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sWWAI7rI3XmYcROVgZm0-2" target="sWWAI7rI3XmYcROVgZm0-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sWWAI7rI3XmYcROVgZm0-2" value="策略决策点/执行点&lt;div&gt;（PDP/PEP）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="sWWAI7rI3XmYcROVgZm0-2" value="零信任策略决策点/执行点&lt;div&gt;（PDP/PEP）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="290" y="336" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sWWAI7rI3XmYcROVgZm0-4" value="内网资源&lt;div&gt;（系统、数据、&lt;/div&gt;&lt;div&gt;应用）&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillColor=#CCCCCC;" vertex="1" parent="1">
