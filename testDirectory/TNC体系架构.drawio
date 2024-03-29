@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T06:07:27.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="shPTumAdYVy75lPe0Fl7" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-29T06:08:37.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6nB4sg5NDyWNFblJdEfb" version="24.0.7" type="github">
   <diagram name="第 1 页" id="OUOFZtQLKsak4Y4Xav9O">
     <mxGraphModel dx="915" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,8 +31,8 @@
         <mxCell id="Ihc8870AOwrYsLXTxOh8-16" value="元数据存取点&lt;div&gt;（MAP）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="635" y="218" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ihc8870AOwrYsLXTxOh8-17" value="网络行为监测点&lt;div&gt;（NBP）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="760" y="218" width="110" height="40" as="geometry" />
+        <mxCell id="Ihc8870AOwrYsLXTxOh8-17" value="行为监测点&lt;div&gt;（BMP）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="775" y="218" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ihc8870AOwrYsLXTxOh8-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="160" y="280" width="130" height="70" as="geometry" />
@@ -118,10 +118,10 @@
             <mxPoint x="224.72" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ihc8870AOwrYsLXTxOh8-39" value="接入控制器（AC）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ihc8870AOwrYsLXTxOh8-39" value="行为处理（AC）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="300" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ihc8870AOwrYsLXTxOh8-40" value="流量控制器&lt;div&gt;(NC)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ihc8870AOwrYsLXTxOh8-40" value="&lt;div&gt;行为控制&lt;/div&gt;&lt;div&gt;(NC)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="470" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ihc8870AOwrYsLXTxOh8-41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ihc8870AOwrYsLXTxOh8-39">
