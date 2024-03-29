@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T05:46:07.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="QWpW3YYufNk9DTZA0nVV" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-29T05:49:45.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6MkD_w_E9SEHDefHOzKC" version="24.0.7" type="github">
   <diagram name="第 1 页" id="OUOFZtQLKsak4Y4Xav9O">
     <mxGraphModel dx="915" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,13 +11,13 @@
           <mxGeometry x="320" y="218" width="100" height="372" as="geometry" />
         </mxCell>
         <mxCell id="Ihc8870AOwrYsLXTxOh8-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="218" width="130" height="372" as="geometry" />
+          <mxGeometry x="430" y="218" width="160" height="372" as="geometry" />
         </mxCell>
         <mxCell id="Ihc8870AOwrYsLXTxOh8-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="218" width="80" height="372" as="geometry" />
+          <mxGeometry x="620" y="218" width="110" height="372" as="geometry" />
         </mxCell>
         <mxCell id="Ihc8870AOwrYsLXTxOh8-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="218" width="90" height="372" as="geometry" />
+          <mxGeometry x="760" y="218" width="90" height="372" as="geometry" />
         </mxCell>
         <mxCell id="Ihc8870AOwrYsLXTxOh8-7" value="访问请求者AR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="218" width="100" height="30" as="geometry" />
@@ -26,13 +26,13 @@
           <mxGeometry x="330" y="218" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ihc8870AOwrYsLXTxOh8-15" value="策略决策点&lt;div&gt;（PDP）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="455" y="218" width="80" height="40" as="geometry" />
+          <mxGeometry x="470" y="218" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ihc8870AOwrYsLXTxOh8-16" value="元数据存取点&lt;div&gt;（MAP）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="580" y="218" width="100" height="40" as="geometry" />
+          <mxGeometry x="610" y="218" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ihc8870AOwrYsLXTxOh8-17" value="行为监测点&lt;div&gt;（BMP）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="685" y="218" width="80" height="40" as="geometry" />
+          <mxGeometry x="760" y="218" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ihc8870AOwrYsLXTxOh8-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="160" y="280" width="130" height="70" as="geometry" />
@@ -45,6 +45,24 @@
         </mxCell>
         <mxCell id="Ihc8870AOwrYsLXTxOh8-21" value="网络请求访问者&lt;div&gt;（NAR）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="500" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ihc8870AOwrYsLXTxOh8-22" value="访问执行点&lt;div&gt;（NAE）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="500" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ihc8870AOwrYsLXTxOh8-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="445" y="280" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ihc8870AOwrYsLXTxOh8-24" value="完整性验证器&lt;div&gt;（IMV）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="295" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ihc8870AOwrYsLXTxOh8-25" value="TNC服务端&lt;div&gt;（TNCS）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="400" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ihc8870AOwrYsLXTxOh8-26" value="访问授权点&lt;div&gt;（NAA）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="500" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ihc8870AOwrYsLXTxOh8-27" value="元数据&lt;span style=&quot;background-color: initial;&quot;&gt;服务器&lt;/span&gt;&lt;div&gt;（MAP server）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="632.5" y="280" width="85" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
