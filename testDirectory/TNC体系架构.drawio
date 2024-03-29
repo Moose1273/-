@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T05:43:26.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="O-q_5Ukr-QXeK2txN9NH" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-29T05:44:48.747Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Cr-LuUBR804MDaSprLk4" version="24.0.7" type="github">
   <diagram name="第 1 页" id="OUOFZtQLKsak4Y4Xav9O">
     <mxGraphModel dx="766" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,12 @@
         </mxCell>
         <mxCell id="Ihc8870AOwrYsLXTxOh8-17" value="行为监测点&lt;div&gt;（BMP）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="685" y="218" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ihc8870AOwrYsLXTxOh8-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ihc8870AOwrYsLXTxOh8-19" value="完整性采集器&lt;div&gt;（IMC）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="295" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
