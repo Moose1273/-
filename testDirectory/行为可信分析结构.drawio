@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-31T07:10:21.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="3qGv-EK8UAqKvHl-IwIz" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-31T07:13:26.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="lTv0uDHTNulU6PdcNHJ7" version="24.0.7" type="github">
   <diagram name="第 1 页" id="pvdFyA34GCLMApx1Tsxj">
     <mxGraphModel dx="1136" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="SDb9DSxGQdFg1mhiOhyy-21" value="行为模型层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="650" y="305" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SDb9DSxGQdFg1mhiOhyy-22" value="可行网络层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="SDb9DSxGQdFg1mhiOhyy-22" value="可信网络层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="650" y="130" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
