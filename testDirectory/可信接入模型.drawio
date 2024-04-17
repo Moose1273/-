@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T08:43:48.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="FKjAvbs3wIOO0sC_cHph" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T08:44:31.645Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="z5TU04bCKa_X1SJXkbgd" version="24.2.2" type="github">
   <diagram name="第 1 页" id="b1a1K8lGnvg2Fc-WdCFe">
     <mxGraphModel dx="1963" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -240,6 +240,9 @@
         </mxCell>
         <mxCell id="SE7YacuOfe0ibnUr_cPf-2" value="零信任代理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="520" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SE7YacuOfe0ibnUr_cPf-6" value="接入终端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="520" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
