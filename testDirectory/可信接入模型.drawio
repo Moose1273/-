@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T08:10:59.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KqcXT-Fn0hO30zLWTNHo" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T08:27:24.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="c4s2qWAkUktl8m_qCwdC" version="24.2.2" type="github">
   <diagram name="第 1 页" id="b1a1K8lGnvg2Fc-WdCFe">
     <mxGraphModel dx="1963" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,7 +69,7 @@
             <mxPoint x="260" y="457.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ppDxrrGSv02l8xtLy87P-13" value="可信接入评估&lt;br&gt;&lt;font face=&quot;Times New Roman&quot;&gt;（TNCV）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ppDxrrGSv02l8xtLy87P-13" value="信任&lt;br&gt;&lt;font face=&quot;Times New Roman&quot;&gt;（TE）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="420" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ppDxrrGSv02l8xtLy87P-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;" parent="1" vertex="1">
@@ -188,8 +188,8 @@
         <mxCell id="ppDxrrGSv02l8xtLy87P-95" value="度量层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-30" y="190" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ppDxrrGSv02l8xtLy87P-97" value="评估层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="315" width="60" height="30" as="geometry" />
+        <mxCell id="ppDxrrGSv02l8xtLy87P-97" value="可信平太评估层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="-55" y="315" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ppDxrrGSv02l8xtLy87P-98" value="网络层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-30" y="430" width="60" height="30" as="geometry" />
