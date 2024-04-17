@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T08:09:04.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Wd9B3nwH32jEC6lazXV0" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T08:10:59.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KqcXT-Fn0hO30zLWTNHo" version="24.2.2" type="github">
   <diagram name="第 1 页" id="b1a1K8lGnvg2Fc-WdCFe">
     <mxGraphModel dx="1963" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="ppDxrrGSv02l8xtLy87P-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="60" y="170" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ppDxrrGSv02l8xtLy87P-9" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;接入客户端&lt;/font&gt;&lt;/div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;（ZBTNCC）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ppDxrrGSv02l8xtLy87P-9" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;接入客户端&lt;/font&gt;&lt;/div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;（ZBC）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="305" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ppDxrrGSv02l8xtLy87P-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ppDxrrGSv02l8xtLy87P-10" target="ppDxrrGSv02l8xtLy87P-13" edge="1">
@@ -32,7 +32,7 @@
             <mxPoint x="2" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ppDxrrGSv02l8xtLy87P-10" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;代理服务端&lt;/font&gt;&lt;/div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;（ZBTCNS）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ppDxrrGSv02l8xtLy87P-10" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;代理服务端&lt;/font&gt;&lt;/div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;（ZBS）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="305" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ppDxrrGSv02l8xtLy87P-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="ppDxrrGSv02l8xtLy87P-12" target="ppDxrrGSv02l8xtLy87P-13" edge="1">
