@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T08:27:24.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="c4s2qWAkUktl8m_qCwdC" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T08:28:21.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="PxP4eqRjYutvKdcyK1A3" version="24.2.2" type="github">
   <diagram name="第 1 页" id="b1a1K8lGnvg2Fc-WdCFe">
     <mxGraphModel dx="1963" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,8 +75,8 @@
         <mxCell id="ppDxrrGSv02l8xtLy87P-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="350" y="170" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ppDxrrGSv02l8xtLy87P-22" value="验证器&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Times New Roman&quot;&gt;（IMV）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="360" y="180" width="70" height="40" as="geometry" />
+        <mxCell id="ppDxrrGSv02l8xtLy87P-22" value="可信要素验证器&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Times New Roman&quot;&gt;（IMV）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="340" y="180" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ppDxrrGSv02l8xtLy87P-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="ppDxrrGSv02l8xtLy87P-27" target="ppDxrrGSv02l8xtLy87P-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -229,8 +229,8 @@
         <mxCell id="ppDxrrGSv02l8xtLy87P-121" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;11.结果通知&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="435" y="360" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HNUJT4gYIMpLwI-gIVs4-1" value="采集器&lt;br&gt;&lt;font face=&quot;Times New Roman&quot;&gt;（IMC）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="70" y="180" width="70" height="40" as="geometry" />
+        <mxCell id="HNUJT4gYIMpLwI-gIVs4-1" value="可信要素采集器&lt;br&gt;&lt;font face=&quot;Times New Roman&quot;&gt;（IMC）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="50" y="180" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-GHKkYtBak5QUSuNrEj4-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;AMP&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="360" y="110" width="70" height="40" as="geometry" />
