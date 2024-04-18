@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T11:51:01.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="8E4KLdsBWBTj-YzOKE4z" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T06:37:01.149Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="SHC8CFMm6at7QPFzY_1m" version="24.2.2" type="github">
   <diagram name="第 1 页" id="b1a1K8lGnvg2Fc-WdCFe">
-    <mxGraphModel dx="1963" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2474" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SE7YacuOfe0ibnUr_cPf-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="SE7YacuOfe0ibnUr_cPf-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="90" width="540" height="440" as="geometry" />
         </mxCell>
         <mxCell id="ppDxrrGSv02l8xtLy87P-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
@@ -114,7 +114,7 @@
         <mxCell id="ppDxrrGSv02l8xtLy87P-51" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15.862068965517237;" parent="1" vertex="1">
           <mxGeometry x="530" y="267.5" width="100" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="ppDxrrGSv02l8xtLy87P-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" target="ppDxrrGSv02l8xtLy87P-28" edge="1" source="-GHKkYtBak5QUSuNrEj4-2">
+        <mxCell id="ppDxrrGSv02l8xtLy87P-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="-GHKkYtBak5QUSuNrEj4-2" target="ppDxrrGSv02l8xtLy87P-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="200" as="sourcePoint" />
             <Array as="points">
@@ -190,7 +190,7 @@
         <mxCell id="ppDxrrGSv02l8xtLy87P-95" value="度量层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-30" y="190" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ppDxrrGSv02l8xtLy87P-97" value="可信平太评估层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" parent="1" vertex="1">
+        <mxCell id="ppDxrrGSv02l8xtLy87P-97" value="可信平台评估层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-55" y="315" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ppDxrrGSv02l8xtLy87P-98" value="网络层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" parent="1" vertex="1">
@@ -240,10 +240,10 @@
         <mxCell id="-GHKkYtBak5QUSuNrEj4-2" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;策略管理员&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;（PA）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="380" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="SE7YacuOfe0ibnUr_cPf-2" value="零信任代理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="SE7YacuOfe0ibnUr_cPf-2" value="零信任代理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="470" y="500" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SE7YacuOfe0ibnUr_cPf-6" value="接入终端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="SE7YacuOfe0ibnUr_cPf-6" value="接入终端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="75" y="500" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
