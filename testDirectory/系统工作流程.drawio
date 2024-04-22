@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T11:14:51.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="DGeB4QDidiCs05RnXhRB" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T11:16:48.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3Sx5MNLb_8NE6yJI47xv" version="24.2.2" type="github">
   <diagram name="第 1 页" id="NWMO6BMZdNA0H22S7Hdg">
     <mxGraphModel dx="1136" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,19 +30,17 @@
         <mxCell id="jyAmwKNWed4hoShEBS9S-8" value="终端平台可信度计算" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="155" y="403" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BA79-QyZCKSSnzGg8HBD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jyAmwKNWed4hoShEBS9S-12" target="jyAmwKNWed4hoShEBS9S-2">
+        <mxCell id="BA79-QyZCKSSnzGg8HBD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.029;exitY=0.489;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BA79-QyZCKSSnzGg8HBD-7" target="jyAmwKNWed4hoShEBS9S-2">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="510" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="120" y="510" />
-              <mxPoint x="120" y="265" />
+              <mxPoint x="110" y="510" />
+              <mxPoint x="110" y="265" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jyAmwKNWed4hoShEBS9S-12" value="判断终端是否处于可信&lt;div&gt;状态&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="480" width="140" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="jyAmwKNWed4hoShEBS9S-15" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="130" y="510" width="40" height="30" as="geometry" />
+          <mxGeometry x="130" y="520" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jyAmwKNWed4hoShEBS9S-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jyAmwKNWed4hoShEBS9S-17" target="jyAmwKNWed4hoShEBS9S-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -51,7 +49,7 @@
           <mxGeometry x="345" y="508" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jyAmwKNWed4hoShEBS9S-19" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="255" y="510" width="40" height="30" as="geometry" />
+          <mxGeometry x="255" y="520" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jyAmwKNWed4hoShEBS9S-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="jyAmwKNWed4hoShEBS9S-22" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -112,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jyAmwKNWed4hoShEBS9S-49" value="评估用户综合信任值" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="310" y="120" width="180" height="85.5" as="geometry" />
+          <mxGeometry x="315" y="130" width="170" height="65.5" as="geometry" />
         </mxCell>
         <mxCell id="jyAmwKNWed4hoShEBS9S-53" value="异常" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="310" y="180" width="50" height="30" as="geometry" />
@@ -126,9 +124,9 @@
         <mxCell id="jyAmwKNWed4hoShEBS9S-57" value="建立内网资源&lt;br&gt;访问通道" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="342.5" y="568" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jyAmwKNWed4hoShEBS9S-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jyAmwKNWed4hoShEBS9S-12" target="jyAmwKNWed4hoShEBS9S-57" edge="1">
+        <mxCell id="jyAmwKNWed4hoShEBS9S-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="jyAmwKNWed4hoShEBS9S-57" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-50" y="480" as="sourcePoint" />
+            <mxPoint x="280" y="510" as="sourcePoint" />
             <mxPoint y="430" as="targetPoint" />
             <Array as="points">
               <mxPoint x="310" y="510" />
@@ -141,6 +139,9 @@
         </mxCell>
         <mxCell id="BA79-QyZCKSSnzGg8HBD-3" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="428" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BA79-QyZCKSSnzGg8HBD-7" value="判断终端是否处于可信状态&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="478" width="170" height="65.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
