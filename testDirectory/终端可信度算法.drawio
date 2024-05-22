@@ -1,9 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T01:16:02.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.4" etag="whtZzMP1Nxg_Pxz8xrRk" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T01:25:56.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="sns54hRa8fdgsSDbYuGI" version="24.4.4" type="github">
   <diagram name="第 1 页" id="2byUVK8HF9ucdOsy6Y-6">
-    <mxGraphModel>
+    <mxGraphModel dx="784" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0bQgtYDC-5HZZn57f9ys-19" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="225" y="150" width="210" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="0bQgtYDC-5HZZn57f9ys-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="429.76" as="sourcePoint" />
+            <mxPoint x="270" y="429.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0bQgtYDC-5HZZn57f9ys-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="0bQgtYDC-5HZZn57f9ys-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="410" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="150" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0bQgtYDC-5HZZn57f9ys-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="0bQgtYDC-5HZZn57f9ys-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="410" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="150" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0bQgtYDC-5HZZn57f9ys-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0bQgtYDC-5HZZn57f9ys-4" target="0bQgtYDC-5HZZn57f9ys-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="210" />
+              <mxPoint x="410" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0bQgtYDC-5HZZn57f9ys-4" value="层次分析法&lt;div&gt;求主观权重&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0bQgtYDC-5HZZn57f9ys-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0bQgtYDC-5HZZn57f9ys-7" target="0bQgtYDC-5HZZn57f9ys-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0bQgtYDC-5HZZn57f9ys-7" value="粗糙熵法&lt;div&gt;求客观权重&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0bQgtYDC-5HZZn57f9ys-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0bQgtYDC-5HZZn57f9ys-11" target="0bQgtYDC-5HZZn57f9ys-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0bQgtYDC-5HZZn57f9ys-11" value="组合权重求解" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0bQgtYDC-5HZZn57f9ys-14" value="单一基线可信度" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0bQgtYDC-5HZZn57f9ys-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0bQgtYDC-5HZZn57f9ys-15" target="0bQgtYDC-5HZZn57f9ys-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0bQgtYDC-5HZZn57f9ys-15" value="终端整体可信度计算" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0bQgtYDC-5HZZn57f9ys-20" value="基线可信权重计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0bQgtYDC-5HZZn57f9ys-21" value="滑动窗口机制调整信任值" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
