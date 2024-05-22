@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T02:41:52.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="VQwXMPcUqHuzq2aQ17jk" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T02:42:19.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="3lDgz5tLHFFWf_bVC0CS" version="24.4.4" type="github">
   <diagram name="第 1 页" id="pn2h-lFcv4Sdc6MpK6sb">
     <mxGraphModel dx="941" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,20 +39,14 @@
         <mxCell id="Jws2I-fbrz8seF6Nbetu-6" value="计算文本HASH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="440" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jws2I-fbrz8seF6Nbetu-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jws2I-fbrz8seF6Nbetu-8" target="Jws2I-fbrz8seF6Nbetu-10">
+        <mxCell id="Jws2I-fbrz8seF6Nbetu-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jws2I-fbrz8seF6Nbetu-8" target="Jws2I-fbrz8seF6Nbetu-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jws2I-fbrz8seF6Nbetu-8" value="除以10&lt;sup&gt;7&lt;/sup&gt;，缩小数据范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="440" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jws2I-fbrz8seF6Nbetu-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jws2I-fbrz8seF6Nbetu-10" target="Jws2I-fbrz8seF6Nbetu-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Jws2I-fbrz8seF6Nbetu-10" value="添加局部随机噪声" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="440" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Jws2I-fbrz8seF6Nbetu-13" value="得到连续性数值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="440" width="100" height="30" as="geometry" />
+          <mxGeometry x="570" y="440" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
