@@ -73,8 +73,14 @@
         <mxCell id="D3yn_jxY5x2qavKiKTVe-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D3yn_jxY5x2qavKiKTVe-27" target="D3yn_jxY5x2qavKiKTVe-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="D3yn_jxY5x2qavKiKTVe-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D3yn_jxY5x2qavKiKTVe-27" target="D3yn_jxY5x2qavKiKTVe-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D3yn_jxY5x2qavKiKTVe-27" value="加载Dll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="555" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="D3yn_jxY5x2qavKiKTVe-31" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="555" width="120" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
