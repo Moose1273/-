@@ -1,9 +1,92 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.2.0">
   <diagram name="第 1 页" id="P_IrWgv3-e5FlPkQXDQ4">
-    <mxGraphModel>
+    <mxGraphModel dx="2798" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="260" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="170" y="400" width="260" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0wuxxcJsKk22Fzn1Go2O-4" target="0wuxxcJsKk22Fzn1Go2O-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-4" value="检测设备名\Device\Nal是否被占用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="450" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0wuxxcJsKk22Fzn1Go2O-5" target="0wuxxcJsKk22Fzn1Go2O-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-5" value="RtlAjustPrivilege提权本进程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="540" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0wuxxcJsKk22Fzn1Go2O-7" target="0wuxxcJsKk22Fzn1Go2O-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-7" value="写注册表SYSTEM\\CurrentControlSet\\Services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="630" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0wuxxcJsKk22Fzn1Go2O-11" target="0wuxxcJsKk22Fzn1Go2O-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-11" value="PiDDBCacheTable上断链、清除avl table、从KernelHashBucketList上断链" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="730" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0wuxxcJsKk22Fzn1Go2O-13" target="0wuxxcJsKk22Fzn1Go2O-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="890" />
+              <mxPoint x="460" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-13" value="清除unloader driver信息、&lt;div&gt;从WdFilterDriverList上断链&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="850" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0wuxxcJsKk22Fzn1Go2O-17" target="0wuxxcJsKk22Fzn1Go2O-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-17" value="申请非分页内存，加载外挂驱动文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="450" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0wuxxcJsKk22Fzn1Go2O-19" target="0wuxxcJsKk22Fzn1Go2O-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-19" value="映射内核物理地址，写入外挂驱动，取消映射" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="570" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0wuxxcJsKk22Fzn1Go2O-21" target="0wuxxcJsKk22Fzn1Go2O-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-21" value="hook NtAddAtom 执行驱动入口点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="680" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-23" value="驱动读取游戏内存物理地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="810" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-27" value="R3绘制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="545" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-28" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#7EA6E0;fillColor=#7EA6E0;" edge="1" parent="1" source="0wuxxcJsKk22Fzn1Go2O-27" target="0wuxxcJsKk22Fzn1Go2O-23">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="540" y="1000" as="sourcePoint" />
+            <mxPoint x="640" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-29" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="1010" as="sourcePoint" />
+            <mxPoint x="790" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0wuxxcJsKk22Fzn1Go2O-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
