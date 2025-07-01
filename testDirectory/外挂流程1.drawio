@@ -4,20 +4,71 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Bq08Rg5JXSJL_3d3jPr-2" target="5Bq08Rg5JXSJL_3d3jPr-3">
+        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="447" y="270" width="380" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="50" y="270" width="380" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Bq08Rg5JXSJL_3d3jPr-2" target="5Bq08Rg5JXSJL_3d3jPr-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="120" y="390" width="80" height="80" as="geometry" />
+        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-2" value="外挂启动" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="390" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Bq08Rg5JXSJL_3d3jPr-3" target="5Bq08Rg5JXSJL_3d3jPr-6">
+        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Bq08Rg5JXSJL_3d3jPr-12" target="5Bq08Rg5JXSJL_3d3jPr-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="300" y="390" width="80" height="80" as="geometry" />
+        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Bq08Rg5JXSJL_3d3jPr-12" target="5Bq08Rg5JXSJL_3d3jPr-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="450" y="250" width="80" height="80" as="geometry" />
+        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-12" value="dsound.dll劫持，注入en版本模拟器，替换启动组件" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="400" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Bq08Rg5JXSJL_3d3jPr-14" target="5Bq08Rg5JXSJL_3d3jPr-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-14" value="mdl映射，注入外挂驱动" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="5Bq08Rg5JXSJL_3d3jPr-17" target="5Bq08Rg5JXSJL_3d3jPr-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-17" value="内核shellcode实现游戏进程读写" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-20" value="IoControl与驱动通信" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-24" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="5Bq08Rg5JXSJL_3d3jPr-22" target="5Bq08Rg5JXSJL_3d3jPr-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-22" value="三层绘制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-26" value="R3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="270" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-27" value="R0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="617" y="270" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="5Bq08Rg5JXSJL_3d3jPr-28" target="5Bq08Rg5JXSJL_3d3jPr-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-28" value="游戏进程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-35" value="cheater" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-36" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Bq08Rg5JXSJL_3d3jPr-40" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Bq08Rg5JXSJL_3d3jPr-35" target="5Bq08Rg5JXSJL_3d3jPr-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="590" as="sourcePoint" />
+            <mxPoint x="80" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
