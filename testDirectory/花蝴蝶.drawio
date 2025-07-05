@@ -46,7 +46,7 @@
         <mxCell id="B19EFK0onm4h__Q6_6Yf-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B19EFK0onm4h__Q6_6Yf-17" target="B19EFK0onm4h__Q6_6Yf-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B19EFK0onm4h__Q6_6Yf-17" value="在测试.dll中申请内存注入shellcode" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B19EFK0onm4h__Q6_6Yf-17" value="在测试.dll中写入shellcode并调用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B19EFK0onm4h__Q6_6Yf-19" value="读取游戏数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
