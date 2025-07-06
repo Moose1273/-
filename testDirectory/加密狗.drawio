@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.2.0">
   <diagram name="第 1 页" id="Av9KriwYrytemJW21NYz">
-    <mxGraphModel>
+    <mxGraphModel dx="1971" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-b5SiPwhyzch_Mxq_aue-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="260" y="695" width="670" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-b5SiPwhyzch_Mxq_aue-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="130" y="500" width="800" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-b5SiPwhyzch_Mxq_aue-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-b5SiPwhyzch_Mxq_aue-1" target="-b5SiPwhyzch_Mxq_aue-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-b5SiPwhyzch_Mxq_aue-1" value="启动" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="545" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-b5SiPwhyzch_Mxq_aue-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-b5SiPwhyzch_Mxq_aue-2" target="-b5SiPwhyzch_Mxq_aue-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-b5SiPwhyzch_Mxq_aue-2" value="释放loader驱动，map真正的外挂驱动后调用0xc0000001退出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-b5SiPwhyzch_Mxq_aue-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="-b5SiPwhyzch_Mxq_aue-4" target="-b5SiPwhyzch_Mxq_aue-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-b5SiPwhyzch_Mxq_aue-4" value="驱动启动一个系统线程，hook&amp;nbsp;FsRtlLookupLargeMcbEntry作为通信点" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="555" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-b5SiPwhyzch_Mxq_aue-6" value="获取游戏进程，读取游戏物理页" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-b5SiPwhyzch_Mxq_aue-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-b5SiPwhyzch_Mxq_aue-9" target="-b5SiPwhyzch_Mxq_aue-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-b5SiPwhyzch_Mxq_aue-9" value="获取系统函数地址，下发控制命令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-b5SiPwhyzch_Mxq_aue-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="-b5SiPwhyzch_Mxq_aue-10" target="-b5SiPwhyzch_Mxq_aue-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-b5SiPwhyzch_Mxq_aue-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-b5SiPwhyzch_Mxq_aue-10" target="-b5SiPwhyzch_Mxq_aue-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-b5SiPwhyzch_Mxq_aue-10" value="读取游戏数据" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-b5SiPwhyzch_Mxq_aue-13" value="R3绘制" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
