@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DNd9FFHzy0yA6z4T41ld-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="660" y="530" width="500" height="550" as="geometry" />
+          <mxGeometry x="660" y="590" width="460" height="430" as="geometry" />
         </mxCell>
         <mxCell id="DNd9FFHzy0yA6z4T41ld-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="160" y="530" width="500" height="550" as="geometry" />
+          <mxGeometry x="210" y="590" width="450" height="430" as="geometry" />
         </mxCell>
         <mxCell id="DNd9FFHzy0yA6z4T41ld-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fontStyle=1;fontColor=default;" edge="1" parent="1" source="DNd9FFHzy0yA6z4T41ld-2" target="DNd9FFHzy0yA6z4T41ld-3">
           <mxGeometry relative="1" as="geometry">
