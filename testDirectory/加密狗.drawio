@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-b5SiPwhyzch_Mxq_aue-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="260" y="695" width="670" height="130" as="geometry" />
+          <mxGeometry x="120" y="695" width="810" height="130" as="geometry" />
         </mxCell>
         <mxCell id="-b5SiPwhyzch_Mxq_aue-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="130" y="500" width="800" height="160" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-b5SiPwhyzch_Mxq_aue-9" value="获取系统函数地址，下发控制命令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-b5SiPwhyzch_Mxq_aue-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="-b5SiPwhyzch_Mxq_aue-10" target="-b5SiPwhyzch_Mxq_aue-4">
           <mxGeometry relative="1" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-b5SiPwhyzch_Mxq_aue-10" value="读取游戏数据" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-b5SiPwhyzch_Mxq_aue-13" value="R3绘制" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="730" width="120" height="60" as="geometry" />
