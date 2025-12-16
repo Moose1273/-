@@ -32,16 +32,16 @@
           <mxGeometry height="30" width="60" x="375" y="510" as="geometry" />
         </mxCell>
         <mxCell id="yx53HhetIHOwc_wNcoQF-15" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" value="内存映射" vertex="1">
-          <mxGeometry height="30" width="90" x="650" y="680" as="geometry" />
+          <mxGeometry height="30" width="90" x="650" y="660" as="geometry" />
         </mxCell>
         <mxCell id="eoaCPOREkNaR0jvVPaai-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="120" width="650" x="160" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="yx53HhetIHOwc_wNcoQF-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" value="游戏保护内存地址gname、gworld等" vertex="1">
+        <mxCell id="yx53HhetIHOwc_wNcoQF-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" value="游戏保护地址gname、gworld等" vertex="1">
           <mxGeometry height="70" width="270" x="190" y="745" as="geometry" />
         </mxCell>
-        <mxCell id="yx53HhetIHOwc_wNcoQF-18" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" value="页表替换" vertex="1">
-          <mxGeometry height="30" width="90" x="530" y="745" as="geometry" />
+        <mxCell id="yx53HhetIHOwc_wNcoQF-18" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" value="页内容、页表替换" vertex="1">
+          <mxGeometry height="30" width="150" x="500" y="745" as="geometry" />
         </mxCell>
         <mxCell id="yx53HhetIHOwc_wNcoQF-19" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Flat_Actions-2817/Close_Icon_Circle-1418.svg;fontSize=16;" value="" vertex="1">
           <mxGeometry height="46" width="35.55" x="417.22" y="492" as="geometry" />
